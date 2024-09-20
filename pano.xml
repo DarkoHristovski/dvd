@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="15998" start="node1" appversion="5.2.5">
+  <panorama id="node1">
+    <input levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" width="2000" height="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="1.69739" pan="88.0147" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata copyright="" source="" customnodeid="" info="" datetime="" latitude="" description="" comment="" author="" longitude="" title="" tags="Downloads"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" enabled="1" background="1" textcolor="0x000000" bordercolor="0x000000" width="180" height="20" border="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot id="Point02" description="" url="{node2}" target="" tilt="-5.63" title="" pan="89.18" skinid="Hotspot 1"/>
+      <hotspot id="Point03" description="" url="{node9}" target="" tilt="-5.85" title="" pan="-0.33" skinid="Hotspot 1"/>
+      <hotspot id="Point04" description="" url="javascript:openPopupWithIframe('/ford_focus')" target="_self" tilt="4.18" title="Ford Focus" pan="-171.96" skinid="Auto"/>
+      <hotspot id="Point01" description="" url="javascript:openPopupWithIframe('/ford_turneo')" target="_self" tilt="3.3" title="Ford Turneo Courier" pan="78.09" skinid="Auto"/>
+      <hotspot id="Point05" description="" url="javascript:openPopupWithIframe('/ford_focus_active')" target="_self" tilt="3.51" title="Ford Focus Active" pan="130.01" skinid="Auto"/>
+      <hotspot id="Point06" description="" url="javascript:openPopupWithIframe('/ford_explorer')" target="_self" tilt="3.85" title="Ford Explorer" pan="23.99" skinid="Auto"/>
+      <hotspot id="Point07" description="" url="javascript:openPopupWithIframe('/ford_kuga')" target="_self" tilt="3.81" title="Ford Kuga" pan="-60.72" skinid="Auto"/>
+    </hotspots>
+    <media>
+      <video tiltsize="10.000" rotx="0.000" height="720" level="0.000" pan="143.790" tilt="4.090" mode="1" stretch="1.000" clickmode="0" width="1280" field="90.000" ambientlevel="0.000" handcursor="0" loop="0" pansize="10.000" rotz="0.000" id="Video1" roty="0.000" fov="11.240">
+        <source url="media/Introducing the Ford Explorer® Men’s Only Edition .mp4"/>
+      </video>
+    </media>
+    <transition type="crossdissolve" zoomoutpause="1" enabled="0" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomin="0" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" contextfullscreen="0" contextprojections="0" invertwheel="0" simulatemass="1" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" hideabout="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" width="2000" height="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-16.748" pan="96.53" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata copyright="" source="" customnodeid="" info="" datetime="" latitude="" description="" comment="" author="" longitude="" title="" tags="Downloads"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" enabled="1" background="1" textcolor="0x000000" bordercolor="0x000000" width="180" height="20" border="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot id="Point01" description="" url="{node1}" target="" tilt="-9.28" title="" pan="-89.8" skinid="Hotspot 1"/>
+      <hotspot id="Point02" description="" url="{node3}" target="" tilt="-8.8" title="" pan="0.77" skinid="Hotspot 1"/>
+      <hotspot id="Point03" description="" url="javascript:openPopupWithIframe('/ford_turneo')" target="_self" tilt="4.6" title="Ford Turneo Courier" pan="57.01" skinid="Auto"/>
+      <hotspot id="Point04" description="" url="javascript:openPopupWithIframe('/ford_puma')" target="_self" tilt="2.77" title="Ford Puma" pan="-23.46" skinid="Auto"/>
+      <hotspot id="Point05" description="" url="javascript:openPopupWithIframe('/ford_focus_active')" target="_blank" tilt="4.3" title="Ford Focus Active" pan="138.06" skinid="Auto"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" enabled="0" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomin="0" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" contextfullscreen="0" contextprojections="0" invertwheel="0" simulatemass="1" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" hideabout="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" width="2000" height="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0.92809" pan="21.3949" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata copyright="" source="" customnodeid="" info="" datetime="" latitude="" description="" comment="" author="" longitude="" title="" tags="Downloads"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" enabled="1" background="1" textcolor="0x000000" bordercolor="0x000000" width="180" height="20" border="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot id="Point01" description="" url="{node2}" target="" tilt="-16.87" title="" pan="176.4" skinid="Hotspot 1"/>
+      <hotspot id="Point02" description="" url="{node4}" target="" tilt="-7.34" title="" pan="0.68" skinid="Hotspot 1"/>
+      <hotspot id="Point03" description="" url="javascript:openPopupWithIframe('/ford_puma')" target="_self" tilt="4.44" title="Ford Puma" pan="-86.04" skinid="Auto"/>
+      <hotspot id="Point04" description="" url="javascript:openPopupWithIframe('/ford_ranger')" target="_self" tilt="4.54" title="Ford Ranger" pan="53.36" skinid="Hotspot 2"/>
+      <hotspot id="Point05" description="" url="javascript:openPopupWithIframe('/ford_connect')" target="_self" tilt="3.59" title="Ford Connect" pan="29.13" skinid="Auto"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" enabled="0" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomin="0" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" contextfullscreen="0" contextprojections="0" invertwheel="0" simulatemass="1" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" hideabout="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" width="2000" height="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-11.6176" pan="15.3374" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata copyright="" source="" customnodeid="" info="" datetime="" latitude="" description="" comment="" author="" longitude="" title="" tags="Downloads"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" enabled="1" background="1" textcolor="0x000000" bordercolor="0x000000" width="180" height="20" border="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot id="Point01" description="" url="{node5}" target="" tilt="-12.53" title="" pan="0.28" skinid="Hotspot 1"/>
+      <hotspot id="Point02" description="" url="{node2}" target="" tilt="-6.84" title="" pan="178.87" skinid="Hotspot 1"/>
+      <hotspot id="Point03" description="" url="javascript:openPopupWithIframe('/ford_mustang')" target="_self" tilt="3" title="Ford Mustang" pan="-49" skinid="Auto"/>
+      <hotspot id="Point04" description="" url="javascript:openPopupWithIframe('/ford_connect')" target="_self" tilt="5.09" title="Ford Connect" pan="79.16" skinid="Hotspot 2"/>
+      <hotspot id="Point05" description="" url="javascript:openPopupWithIframe('/ford_connect_custom')" target="_self" tilt="5.36" title="Ford Connect Custom" pan="47.5" skinid="Auto"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" enabled="0" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomin="0" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" contextfullscreen="0" contextprojections="0" invertwheel="0" simulatemass="1" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" hideabout="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" width="2000" height="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-7.92106" pan="-89.9142" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata copyright="" source="" customnodeid="" info="" datetime="" latitude="" description="" comment="" author="" longitude="" title="" tags="Downloads"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" enabled="1" background="1" textcolor="0x000000" bordercolor="0x000000" width="180" height="20" border="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot id="Point03" description="" url="{node2}" target="" tilt="-6.42" title="" pan="178.85" skinid="Hotspot 1"/>
+      <hotspot id="Point04" description="" url="{node7}" target="" tilt="-7.9" title="" pan="-86.39" skinid="Hotspot 1"/>
+      <hotspot id="Point01" description="" url="javascript:openPopupWithIframe('/ford_mondeo')" target="_self" tilt="3.72" title="Ford Mondeo" pan="22.04" skinid="Auto"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" enabled="0" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomin="0" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" contextfullscreen="0" contextprojections="0" invertwheel="0" simulatemass="1" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" hideabout="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" width="2000" height="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-4.98671" pan="-84.3036" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata copyright="" source="" customnodeid="" info="" datetime="" latitude="" description="" comment="" author="" longitude="" title="" tags="Downloads"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" enabled="1" background="1" textcolor="0x000000" bordercolor="0x000000" width="180" height="20" border="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot id="Point01" description="" url="{node7}" target="" tilt="-14.22" title="" pan="-84.15" skinid="Hotspot 1"/>
+      <hotspot id="Point02" description="" url="{node5}" target="" tilt="-7.32" title="" pan="86.83" skinid="Hotspot 1"/>
+      <hotspot id="Point03" description="" url="javascript:openPopupWithIframe('/ford_explorer_electro')" target="_self" tilt="4.54" title="Ford Explorer Elektro" pan="-107" skinid="Auto"/>
+      <hotspot id="Point04" description="" url="javascript:openPopupWithIframe('/ford_mustang')" target="_self" tilt="2.12" title="Ford  Mustang" pan="-147.53" skinid="Auto"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" enabled="0" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomin="0" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" contextfullscreen="0" contextprojections="0" invertwheel="0" simulatemass="1" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" hideabout="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" width="2000" height="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-7.62057" pan="-174.835" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata copyright="" source="" customnodeid="" info="" datetime="" latitude="" description="" comment="" author="" longitude="" title="" tags="Downloads"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" enabled="1" background="1" textcolor="0x000000" bordercolor="0x000000" width="180" height="20" border="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot id="Point01" description="" url="{node5}" target="" tilt="-7.21" title="" pan="86.88" skinid="Hotspot 1"/>
+      <hotspot id="Point03" description="" url="{node9}" target="" tilt="-6.83" title="" pan="-180.17" skinid="Hotspot 1"/>
+      <hotspot id="Point02" description="" url="javascript:openPopupWithIframe('/ford_explorer_electro')" target="_self" tilt="6.97" title="Ford Explorer Elektro" pan="-129.74" skinid="Auto"/>
+      <hotspot id="Point04" description="" url="javascript:openPopupWithIframe('/ford_mustang')" target="_self" tilt="2.67" title="Ford Mustang" pan="151.34" skinid="Auto"/>
+      <hotspot id="Point05" description="" url="javascript:openPopupWithIframe('/ford_fiesta')" target="_self" tilt="2.78" title="Ford Fiesta" pan="-54.43" skinid="Auto"/>
+      <hotspot id="Point06" description="" url="" target="_blank" tilt="3.05" title="Ford Fiesta" pan="-11.03" skinid="Hotspot 1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" enabled="0" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomin="0" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" contextfullscreen="0" contextprojections="0" invertwheel="0" simulatemass="1" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" hideabout="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" width="2000" height="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-10.4334" pan="-164.588" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata copyright="" source="" customnodeid="" info="" datetime="" latitude="" description="" comment="" author="" longitude="" title="" tags="Downloads"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" enabled="1" background="1" textcolor="0x000000" bordercolor="0x000000" width="180" height="20" border="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot id="Point01" description="" url="{node9}" target="" tilt="-6.42" title="" pan="-179.97" skinid="Hotspot 1"/>
+      <hotspot id="Point02" description="" url="{node7}" target="" tilt="-11.79" title="" pan="-1.47" skinid="Hotspot 1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" enabled="0" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomin="0" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" contextfullscreen="0" contextprojections="0" invertwheel="0" simulatemass="1" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" hideabout="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" width="2000" height="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0.115197" pan="-179.004" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata copyright="" source="" customnodeid="" info="" datetime="" latitude="" description="" comment="" author="" longitude="" title="" tags="Downloads"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" enabled="1" background="1" textcolor="0x000000" bordercolor="0x000000" width="180" height="20" border="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot id="Point03" description="" url="{node7}" target="" tilt="-9.26" title="" pan="-1.33" skinid="Hotspot 1"/>
+      <hotspot id="Point01" description="" url="{node1}" target="" tilt="-14.45" title="" pan="180.46" skinid="Hotspot 1"/>
+      <hotspot id="Point02" description="" url="javascript:openPopupWithIframe('/ford_explorer')" target="_self" tilt="5.87" title="Ford Explorer" pan="77.15" skinid="Auto"/>
+      <hotspot id="Point04" description="" url="javascript:openPopupWithIframe('/ford_kuga')" target="_self" tilt="3.96" title="Ford Kuga" pan="-38.44" skinid="Auto"/>
+    </hotspots>
+    <media>
+      <video tiltsize="10.000" rotx="-1.000" height="720" level="0.000" pan="31.050" tilt="2.940" mode="1" stretch="1.000" clickmode="0" width="1280" field="90.000" ambientlevel="0.000" handcursor="0" loop="0" pansize="10.000" rotz="-1.000" id="Element01" roty="24.000" fov="14.098">
+        <source url="media/Introducing the Ford Explorer® Men’s Only Edition .mp4"/>
+      </video>
+    </media>
+    <transition type="crossdissolve" zoomoutpause="1" enabled="0" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomin="0" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" contextfullscreen="0" contextprojections="0" invertwheel="0" simulatemass="1" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" rubberband="0" hideabout="0" sensitivity="8"/>
+  </panorama>
+</tour>
