@@ -1,0 +1,207 @@
+html,
+body {
+    font-weight:600;
+    margin: 0;
+    overflow: hidden;
+    font-family: Verdana, sans-serif;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.model-info, .avatar, .action {display:none !important;}
+
+/* Pano CSS */
+
+.embed-containerframe {
+    overflow: hidden;
+    position: relative;
+    height: 97vh;
+    max-width: 100%;
+    top: 0px;
+}
+
+.embed-containerframe iframe,
+.embed-containerframe object,
+.embed-containerframe embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media (max-width: 549px) {
+    .embed-containerframe {
+        overflow: hidden;
+        position: relative;
+        height: 100vh;
+        max-width: 100%;
+        top: 0px;
+    }
+    .embed-containerframe iframe,
+    .embed-containerframe object,
+    .embed-containerframe embed {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh!important;
+    }
+}
+
+
+/* Pano Schnellzugriff Menü */
+
+.accordion {
+    width: 200px;
+    background-color: #252531;
+    color: white;
+    cursor: pointer;
+    padding: 8px;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-family: Montserrat, sans-serif;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+
+.accordion:hover {
+    background-color: #191919;
+    color: #B19777;
+}
+
+.panel {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+.panel a {
+    color: #252531!important;
+    background-color: white!important;
+    border-bottom: 1px solid #b1977785!important;
+}
+
+.panel a:hover {
+    color: #252531!important;
+    background-color: #000000!important;
+    border-bottom: 1px solid #b1977785!important;
+}
+
+@media (max-width: 549px) {
+    .absolute-menu {
+        position: fixed;
+        z-index: 13!important;
+        top: 0px!important;
+        /*right: 10px!important;*/
+        width: 100%!important;
+        left: auto!important;
+        text-align: center;
+    }
+    .accordion {
+        width: 100%!important;
+        text-align: center;
+    }
+    .sidebar-toggle-button {
+        font-size: 12px!important;
+        width: 100%!important;
+        padding: 8px 8px;
+
+    }
+
+}
+
+.absolute-menu {
+    position: fixed;
+    z-index: 10;
+    top: 10px;
+    left: 10px;
+    width: 200px;
+    border-radius: 3px;
+    padding: 0px;
+}
+.absolute-menu a:nth-child(1){
+    border-radius: 3px 3px 0px 0px;
+}
+
+.absolute-menu a:last-child { 
+    border-radius: 0px 0px 3px 3px;
+}
+.absolute-menu a {
+    background-color: #000000;
+    color: white;
+    display: block;
+    padding: 10px 8px;
+    text-decoration: none;
+    font-size: 12px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+p {
+    background-color: #252531;
+    color: white;
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.absolute-menu a:hover {
+    background-color: #191919;
+    color: #F7FF14;
+}
+
+.sidebar-toggle-button {
+    width: 200px;
+    font-weight:600;
+    font-size: 18px;
+    font-family: Verdana, sans-serif;
+    border: 0px solid white;
+    color: white;
+    background-color: #191919;
+    text-transform: uppercase;
+}
+
+@media (min-width: 550px) {
+    .sidebar-toggle-button {
+        width: 50px;
+        height: 50px;
+        border-radius: 3px!important;
+        cursor: pointer;
+        margin-bottom: 5px;
+    }
+    #myDIV {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+#myDIV {
+    display: none;
+}
+
+.scroll-column {
+    -webkit-box-sizing: padding-box;
+    -moz-box-sizing: padding-box;
+    box-sizing: padding-box;
+    position: absolute;
+    min-width: 20px;
+    z-index: 9;
+    right: 0px;
+    top: 0px;
+}
+
+.slideDown{
+	animation-name: slideDown;
+	-webkit-animation-name: slideDown;	
+
+	animation-duration: 1s;	
+	-webkit-animation-duration: 1s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+
+	visibility: visible !important;						
+}
